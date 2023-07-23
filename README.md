@@ -11,4 +11,8 @@ Sogang Univ, 2023_1st semester, CSE3081, Algorithm Design and Analysis
 <br/>
 
 ## HW3
-#### asdf
+#### 1. Minimal Triangulation 문제를 Dynamic Programming을 적용하여 해결
+![Minimal%20Triangulation.jpg](https://github.com/namkidong98/CSE3081-Algorithm_Design-Analysis/blob/main/HW3/Minimal%20Triangulation/Minimal%20Triangulation.jpg)
+<br/>
+#### 2. Subset Sum 문제를 Dynamic Programming을 적용하여 해결
+![Subset%20Sum.jpg](https://github.com/namkidong98/CSE3081-Algorithm_Design-Analysis/blob/main/HW3/Subset%20Sum/Subset%20Sum.jpg)
